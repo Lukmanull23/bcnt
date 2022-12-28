@@ -84,6 +84,7 @@
         </section>
         <!-- Scrub -->
         <section class="p-5 py-0" id="scrub">
+            <br><br><br><br>
             <div class="d-grid gap-2 col-2 mx-auto">
                 <button class="btn btn-dark" type="button">Scrub</button>
             </div>
@@ -200,6 +201,7 @@
         </section>
                     <!-- Hair Treatment -->
         <section class="mt-5 p-5 py-0" id="hair">
+            <br><br><br><br>
             <div class="d-grid gap-2 col-2 mx-auto">
                 <button class="btn btn-dark" type="button">Hair Treatment</button>
             </div>
@@ -322,6 +324,7 @@
         </section>
                     <!-- Facial -->
         <section class="py-0" id="facial">
+            <br><br><br><br><br><br>
             <div class="d-grid gap-2 col-2 mx-auto">
                 <button class="btn btn-dark" type="button">Facial</button>
             </div>
@@ -373,6 +376,7 @@
                                     Rp.50.000
                                 </div>
                             </div>
+                            <br><br><br>
                             <!-- Product actions-->
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
                                 <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
