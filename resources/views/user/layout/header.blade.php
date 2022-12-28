@@ -8,7 +8,7 @@
                     </div>
                 </div>
                 <div class=" text-center mx-auto pt-3">
-                    <button type="button" class="btn btn-dark text-center mx-auto fw-bolder">Call Us!</button>
+                    <button type="button" class="btn btn-dark text-center mx-auto fw-bolder">Book Now!</button>
                 </div>
             </div>
             <style type="text/css">
