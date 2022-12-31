@@ -23,7 +23,7 @@ use App\Http\Controllers\ProfileController;
 //     return view('welcome');
 // });
 
-Route::get('/home', [BaseController::class, 'home'])->name('home');
+Route::get('/', [BaseController::class, 'home'])->name('home');
 Route::get('/chart', [BaseController::class, 'chart'])->name('chart')->middleware('auth');
 Route::get('/history', [BaseController::class, 'history'])->name('history')->middleware('auth');
 Route::get('/training', [BaseController::class, 'training'])->name('training')->middleware('auth');

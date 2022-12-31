@@ -25,7 +25,7 @@ class LoginController extends Controller
         {
             $request->session()->regenerate();
 
-            return redirect()->intended('/home');
+            return redirect()->intended('/');
         }
 
         return back()->with('loginError', 'The passwaord you entered is incorrect ');
@@ -39,6 +39,6 @@ class LoginController extends Controller
     
         $request->session()->regenerateToken();
     
-        return redirect('/home');
+        return redirect('/');
     }
 }

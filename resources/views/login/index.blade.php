@@ -38,13 +38,14 @@
           <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
         </div>
         @endif
-
+        
         @if(session()->has('loginError'))
         <div class="alert alert-danger alert-dismissible fade show" role="alert">
           {{ session('loginError') }}
           <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
         </div>
         @endif
+
         <div class="row align-items-center justify-content-center">
           <div class="col-md-12">
             <div class="form-block mx-auto">
@@ -84,8 +85,6 @@
     
   </div>
     
-    
-
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
