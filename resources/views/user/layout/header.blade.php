@@ -7,7 +7,7 @@
                         <p class="lead border-white fw-light mb-0">9:00-20:00 WIB</p>
                     </div>
                 </div>
-                <div class=" text-center mx-auto pt-3">
+                <div class=" text-center mx-auto pt-3" >
                     <button type="button" class="btn btn-dark text-center mx-auto fw-bolder">Book Now!</button>
                 </div>
             </div>

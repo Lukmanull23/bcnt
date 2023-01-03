@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\PesananDetail;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 
@@ -41,4 +42,6 @@ class LoginController extends Controller
     
         return redirect('/');
     }
+
+    
 }

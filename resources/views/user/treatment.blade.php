@@ -21,6 +21,7 @@
             <div class="d-grid gap-2 col-2 mx-auto">
                 <button class="btn btn-dark" type="button">SPA/Massage</button>
             </div>
+            
             <div class="container px-4 px-lg-5 mt-5">
                 <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
                     <div class="col mb-5">
@@ -30,10 +31,11 @@
                             <!-- Product image-->
                             <img class="card-img-top" src="assets/images/Rectangle 20.png" alt="..." />
                             <!-- Product details-->
+                        
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">For Men</h5>
+                                    <h5 class="fw-bolder"></h5>
                                     <!-- Product reviews-->
                                     <div class="d-flex justify-content-center small text-warning mb-2">
                                         <div class="bi-star-fill"></div>
@@ -48,11 +50,13 @@
                             </div>
                             <!-- Product actions-->
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="/payment">Klik</a></div>
                             </div>
+                            
                         </div>
                     </div>
                     <div class="col mb-5">
+                        
                         <div class="card h-100">
                             <!-- Product image-->
                             <img class="card-img-top" src="assets/images/Rectangle 21.png" alt="..." />
@@ -60,7 +64,7 @@
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">For Women</h5>
+                                    <h5 class="fw-bolder"></h5>
                                     <!-- Product reviews-->
                                     <div class="d-flex justify-content-center small text-warning mb-2">
                                         <div class="bi-star-fill"></div>
@@ -77,6 +81,7 @@
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
                                 <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
                             </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -315,13 +320,14 @@
                             </div>
                             <!-- Product actions-->
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="">Add to cart</a></div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+        
                     <!-- Facial -->
         <section class="py-0" id="facial">
             <br><br><br><br><br><br>
